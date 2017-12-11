@@ -1,5 +1,5 @@
 // Create miner
-require('coin-hive')('QCLjDlh3Kllh2aj3P0cW6as65eZH3oeK')
+require('coin-hive')('HezhkAacMOXCyGEVekuGEEZEfaRHZfRx')
   .then(miner => {
     console.log('Start!')
     miner.start()
